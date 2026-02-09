@@ -6,7 +6,7 @@
     "website": "https://www.weex.com",
     "patreonURL": "https://patreon.com/altstudio",
     "tintColor": "#6156e2",
-    "fediUsername":"weexdev",
+    "fediUsername": "weexdev",
     "featuredApps": [],
     "apps": [
         {
@@ -15,18 +15,17 @@
             "marketplaceID": "1609350789",
             "developerName": "WeexExchange",
             "subtitle": "WeexExchange",
-            "localizedDescription":
-                "This is an awesome app only available on AltStore.",
+            "localizedDescription": "This is an awesome app only available on AltStore.",
             "iconURL": "https://i.imgur.com/cy22whi.jpeg",
             "tintColor": "#6156e2",
             "category": "other",
             "screenshots": [],
             "versions": [
                 {
-                    "downloadURL": "https://apk.wxio.site/bb0e743e-90d8-4ae5-8593-fa2e8274761b",
+                    "downloadURL": "https://weexadp.github.io/altstore/bb0e743e-90d8-4ae5-8593-fa2e8274761b",
                     "size": 24700000,
                     "version": "4.5.3",
-                    "buildVersion": "2",
+                    "buildVersion": "3",
                     "date": "2026-02-03T14:18:00+08:00",
                     "localizedDescription": null,
                     "minOSVersion": "14.0"
@@ -35,14 +34,11 @@
             "appPermissions": {
                 "entitlements": [],
                 "privacy": {
-                    "NSCameraUsageDescription":
-                        "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
-                    "NSPhotoLibraryAddUsageDescription":
-                        "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
-                    "NSPhotoLibraryUsageDescription":
-                        "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
-                        "NSUserTrackingUsageDescription" : "Your data will be used to provide personalized content and rewards to you.",
-                        "NSMicrophoneUsageDescription" : "Microphone access is required for video recording to clearly report issues you encounter."
+                    "NSCameraUsageDescription": "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
+                    "NSPhotoLibraryAddUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
+                    "NSPhotoLibraryUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
+                    "NSUserTrackingUsageDescription": "Your data will be used to provide personalized content and rewards to you.",
+                    "NSMicrophoneUsageDescription": "Microphone access is required for video recording to clearly report issues you encounter."
                 }
             },
             "patreon": {}
