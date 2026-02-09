@@ -13,6 +13,7 @@
             "name": "WeexExchange",
             "bundleIdentifier": "com.wake.weexprd",
             "marketplaceID": "1609350789",
+            "appleItemId": "1609350789",
             "developerName": "WeexExchange",
             "subtitle": "WeexExchange",
             "localizedDescription": "This is an awesome app only available on AltStore.",
