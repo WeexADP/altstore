@@ -1,0 +1,52 @@
+{
+    "name": "WEEX - Buy Bitcoin & Crypto",
+    "subtitle": "Trade BTC, ETH & SOL futures",
+    "description": "Welcome to WEEX, where new wealth is made.Founded in 2018, WEEX has become one of the world's most trusted crypto exchanges, serving over 6.2 million users across 200+ countries. With 1,700+ trading pairs, up to 400× leverage, and a focus on security and simplicity, WEEX empowers both new and experienced traders.",
+    "iconURL": "https://lh3.googleusercontent.com/J7FnReeECL4LMLngl4zfKd_tMw1kziERKHoL7-N6Yj4Xx7fso452AC-54WE2xIkQ-Kg",
+    "website": "https://www.weex.com",
+    "patreonURL": "https://patreon.com/altstudio",
+    "tintColor": "#6156e2",
+    "fediUsername":"weexdev",
+    "featuredApps": [],
+    "apps": [
+        {
+            "name": "WeexExchange",
+            "bundleIdentifier": "com.wake.weexprd",
+            "marketplaceID": "1609350789",
+            "developerName": "WeexExchange",
+            "subtitle": "WeexExchange",
+            "localizedDescription":
+                "This is an awesome app only available on AltStore.",
+            "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+            "tintColor": "#6156e2",
+            "category": "other",
+            "screenshots": [],
+            "versions": [
+                {
+                    "downloadURL": "https://apk.wxio.site/bb0e743e-90d8-4ae5-8593-fa2e8274761b",
+                    "size": 24700000,
+                    "version": "4.5.3",
+                    "buildVersion": "2",
+                    "date": "2026-02-03T14:18:00+08:00",
+                    "localizedDescription": null,
+                    "minOSVersion": "14.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [],
+                "privacy": {
+                    "NSCameraUsageDescription":
+                        "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
+                    "NSPhotoLibraryAddUsageDescription":
+                        "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
+                    "NSPhotoLibraryUsageDescription":
+                        "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
+                        "NSUserTrackingUsageDescription" : "Your data will be used to provide personalized content and rewards to you.",
+                        "NSMicrophoneUsageDescription" : "Microphone access is required for video recording to clearly report issues you encounter."
+                }
+            },
+            "patreon": {}
+        }
+    ],
+    "news": []
+}
