@@ -35,15 +35,6 @@
                     "downloadURL": "https://apk.wxio.site/app/4_5_8",
                     "localizedDescription": "New: Quick action buttons and fund activity added to the token details page.\nNew: Users can now set a custom anti-phishing code to enhance account security.\nImproved: Better futures market order pricing logic, reducing order book spread impact.\nImproved: Refined OTC sell order limit prompts for a smoother experience.\nImproved: Highlighted share button makes it easier to share trading result posters.",
                     "minOSVersion": "14.0"
-                },
-                {
-                    "downloadURL": "https://weexadp.github.io/altstore/bb0e743e-90d8-4ae5-8593-fa2e8274761b",
-                    "size": 24700000,
-                    "version": "4.5.3",
-                    "buildVersion": "1",
-                    "date": "2026-02-03T14:18:00+08:00",
-                    "localizedDescription": null,
-                    "minOSVersion": "14.0"
                 }
             ],
             "appPermissions": {
