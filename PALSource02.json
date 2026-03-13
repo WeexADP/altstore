@@ -47,13 +47,6 @@
                 }
             ],
             "appPermissions": {
-                "entitlements": [
-                    "aps-environment",
-                    "com.apple.developer.applesignin",
-                    "com.apple.developer.associated-domains",
-                    "com.apple.developer.usernotifications.communication",
-                    "com.apple.security.application-groups"
-                ],
                 "privacy": {
                     "NSMicrophoneUsageDescription": "Microphone access is required for video recording to clearly report issues you encounter.",
                     "NSCameraUsageDescription": "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
