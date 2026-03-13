@@ -42,7 +42,7 @@
                     "version": "4.5.3",
                     "buildVersion": "1",
                     "date": "2026-02-03T14:18:00+08:00",
-                    "localizedDescription": "AltStore distribution release.",
+                    "localizedDescription": null,
                     "minOSVersion": "14.0"
                 }
             ],
