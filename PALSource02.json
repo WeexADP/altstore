@@ -43,6 +43,15 @@
                     "size": 24700000,
                     "version": "4.5.3",
                     "buildVersion": "3",
+                    "date": "2026-02-09T14:18:00+08:00",
+                    "localizedDescription": null,
+                    "minOSVersion": "14.0"
+                },
+                {
+                    "downloadURL": "https://weexadp.github.io/altstore/bb0e743e-90d8-4ae5-8593-fa2e8274761b",
+                    "size": 24700000,
+                    "version": "4.5.3",
+                    "buildVersion": "1",
                     "date": "2026-02-03T14:18:00+08:00",
                     "localizedDescription": null,
                     "minOSVersion": "14.0"
@@ -51,11 +60,11 @@
             "appPermissions": {
                 "entitlements": [],
                 "privacy": {
-                    "NSMicrophoneUsageDescription": "Microphone access is required for video recording to clearly report issues you encounter.",
                     "NSCameraUsageDescription": "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
                     "NSPhotoLibraryAddUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
                     "NSPhotoLibraryUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
-                    "NSUserTrackingUsageDescription": "Your data will be used to provide personalized content and rewards to you."
+                    "NSUserTrackingUsageDescription": "Your data will be used to provide personalized content and rewards to you.",
+                    "NSMicrophoneUsageDescription": "Microphone access is required for video recording to clearly report issues you encounter."
                 }
             },
             "patreon": {}
