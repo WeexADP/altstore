@@ -4,6 +4,7 @@
     "description": "Welcome to WEEX, where new wealth is made.Founded in 2018, WEEX has become one of the world's most trusted crypto exchanges, serving over 6.2 million users across 200+ countries. With 1,700+ trading pairs, up to 400× leverage, and a focus on security and simplicity, WEEX empowers both new and experienced traders.",
     "iconURL": "https://lh3.googleusercontent.com/J7FnReeECL4LMLngl4zfKd_tMw1kziERKHoL7-N6Yj4Xx7fso452AC-54WE2xIkQ-Kg",
     "website": "https://www.weex.com",
+    "patreonURL": "https://patreon.com/altstudio",
     "tintColor": "#6156e2",
     "fediUsername": "weexdev",
     "featuredApps": [
@@ -11,10 +12,11 @@
     ],
     "apps": [
         {
-            "name": "WEEX：Buy Bitcoin & Crypto",
+            "name": "WeexExchange",
             "bundleIdentifier": "com.wake.weexprd",
             "marketplaceID": "1609350789",
-            "developerName": "WEEX Exchange",
+            "appleItemId": "1609350789",
+            "developerName": "WeexExchange",
             "subtitle": "Trade with Precision. Succeed with WEEX.",
             "localizedDescription": "WEEX is a global cryptocurrency exchange built for traders who value speed, security, and deep liquidity. \nWith a focus on innovation, security, and user experience, WEEX continues to redefine what's possible in crypto trading.",
             "iconURL": "https://lh3.googleusercontent.com/J7FnReeECL4LMLngl4zfKd_tMw1kziERKHoL7-N6Yj4Xx7fso452AC-54WE2xIkQ-Kg",
@@ -35,6 +37,15 @@
                     "downloadURL": "https://apk.wxio.site/app/4_5_8",
                     "localizedDescription": "New: Quick action buttons and fund activity added to the token details page.\nNew: Users can now set a custom anti-phishing code to enhance account security.\nImproved: Better futures market order pricing logic, reducing order book spread impact.\nImproved: Refined OTC sell order limit prompts for a smoother experience.\nImproved: Highlighted share button makes it easier to share trading result posters.",
                     "minOSVersion": "14.0"
+                },
+                {
+                    "downloadURL": "https://weexadp.github.io/altstore/bb0e743e-90d8-4ae5-8593-fa2e8274761b",
+                    "size": 24700000,
+                    "version": "4.5.3",
+                    "buildVersion": "3",
+                    "date": "2026-02-03T14:18:00+08:00",
+                    "localizedDescription": null,
+                    "minOSVersion": "14.0"
                 }
             ],
             "appPermissions": {
@@ -43,13 +54,11 @@
                     "NSMicrophoneUsageDescription": "Microphone access is required for video recording to clearly report issues you encounter.",
                     "NSCameraUsageDescription": "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
                     "NSPhotoLibraryAddUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
-                    "NSFaceIDUsageDescription": "WEEX needs access to your Face ID to perform verification, provide customer support, and share your banners.",
                     "NSPhotoLibraryUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
-                    "NSUserTrackingUsageDescription": "Your data will be used to provide personalized content and rewards to you.",
-                    "NSLocationWhenInUseUsageDescription": "Please provide us with your geolocation data to prove your current location",
-                    "NSLocationUsageDescription": "To protect your account security, location access is needed to detect unusual logins."
+                    "NSUserTrackingUsageDescription": "Your data will be used to provide personalized content and rewards to you."
                 }
-            }
+            },
+            "patreon": {}
         }
     ],
     "news": []
