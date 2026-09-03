@@ -1,0 +1,96 @@
+{
+    "name": "WEEX - Buy Bitcoin & Crypto",
+    "subtitle": "Trade BTC, ETH & SOL futures",
+    "description": "Welcome to WEEX, where new wealth is made.Founded in 2018, WEEX has become one of the world's most trusted crypto exchanges, serving over 6.2 million users across 200+ countries. With 1,700+ trading pairs, up to 400× leverage, and a focus on security and simplicity, WEEX empowers both new and experienced traders.",
+    "iconURL": "https://lh3.googleusercontent.com/J7FnReeECL4LMLngl4zfKd_tMw1kziERKHoL7-N6Yj4Xx7fso452AC-54WE2xIkQ-Kg",
+    "website": "https://www.weex.com",
+    "tintColor": "#6156e2",
+    "fediUsername": "weexdev",
+    "featuredApps": [
+        "com.wake.weexprd"
+    ],
+    "apps": [
+        {
+            "name": "WEEX：Buy Bitcoin & Crypto",
+            "bundleIdentifier": "com.wake.weexprd",
+            "marketplaceID": "1609350789",
+            "developerName": "WEEX Exchange",
+            "subtitle": "Trade with Precision. Succeed with WEEX.",
+            "localizedDescription": "WEEX is a global cryptocurrency exchange built for traders who value speed, security, and deep liquidity. \nWith a focus on innovation, security, and user experience, WEEX continues to redefine what's possible in crypto trading.",
+            "iconURL": "https://lh3.googleusercontent.com/J7FnReeECL4LMLngl4zfKd_tMw1kziERKHoL7-N6Yj4Xx7fso452AC-54WE2xIkQ-Kg",
+            "tintColor": "#6156e2",
+            "category": "other",
+            "screenshots": [
+                {
+                    "imageURL": "https://apk.weex.com/app/EN_02_1512×2688.png",
+                    "width": 1512,
+                    "height": 2688
+                },
+                {
+                    "imageURL": "https://apk.weex.com/app/EN_04_1512×2688.png",
+                    "width": 1512,
+                    "height": 2688
+                },
+                {
+                    "imageURL": "https://apk.weex.com/app/EN_05_1512×2688.png",
+                    "width": 1512,
+                    "height": 2688
+                },
+                {
+                    "imageURL": "https://apk.weex.com/app/EN_07_1512×2688.png",
+                    "width": 1512,
+                    "height": 2688
+                }
+            ],
+            "versions": [
+                {
+                    "version": "4.5.22",
+                    "buildVersion": "1",
+                    "date": "2026-06-02T11:28:33+09:00",
+                    "size": 34258089,
+                    "downloadURL": "https://apk.weex.com/app/a6e4a289-80b7-407d-9283-d13e1b447344/manifest.json",
+                    "localizedDescription": "Improved: Take-profit/stop-loss feature ensures orders are executed precisely at your set prices during high market volatility.\nNew: Added bonus boost to help increase returns when subscribing to eligible Earn products.\nImproved: Updated the Auto Earn and staking interface and rules for a clearer Earn experience.\nImproved: Optimized custom price alert notifications to reduce repeated messages and help you stay focused on the market.",
+                    "minOSVersion": "14.0"
+                },
+                {
+                    "version": "4.5.8",
+                    "buildVersion": "1",
+                    "date": "2026-03-10T17:06:15+08:00",
+                    "size": 29028609,
+                    "downloadURL": "https://apk.weex.com/app/4_5_8/manifest.json",
+                    "localizedDescription": "New: Quick action buttons and fund activity added to the token details page.\nNew: Users can now set a custom anti-phishing code to enhance account security.\nImproved: Better futures market order pricing logic, reducing order book spread impact.\nImproved: Refined OTC sell order limit prompts for a smoother experience.\nImproved: Highlighted share button makes it easier to share trading result posters.",
+                    "minOSVersion": "14.0"
+                },
+                {
+                    "downloadURL": "https://weexadp.github.io/altstore/bb0e743e-90d8-4ae5-8593-fa2e8274761b/manifest.json",
+                    "size": 24700000,
+                    "version": "4.5.3",
+                    "buildVersion": "1",
+                    "date": "2026-02-03T14:18:00+08:00",
+                    "localizedDescription": "AltStore distribution release.",
+                    "minOSVersion": "14.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "aps-environment",
+                    "com.apple.developer.applesignin",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.usernotifications.communication",
+                    "com.apple.security.application-groups"
+                ],
+                "privacy": {
+                    "NSMicrophoneUsageDescription": "Microphone access is required for video recording to clearly report issues you encounter.",
+                    "NSCameraUsageDescription": "Allow WEEX to use your camera to scan and take pictures, upload your profile or scan your login",
+                    "NSPhotoLibraryAddUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
+                    "NSFaceIDUsageDescription": "WEEX needs access to your Face ID to perform verification, provide customer support, and share your banners.",
+                    "NSPhotoLibraryUsageDescription": "WEEX needs access to your gallery to perform verification, provide customer support, and share your banners.",
+                    "NSUserTrackingUsageDescription": "Your data will be used to provide personalized content and rewards to you.",
+                    "NSLocationWhenInUseUsageDescription": "Please provide us with your geolocation data to prove your current location",
+                    "NSLocationUsageDescription": "To protect your account security, location access is needed to detect unusual logins."
+                }
+            }
+        }
+    ],
+    "news": []
+}
